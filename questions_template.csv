@@ -1,0 +1,4 @@
+Subject,Question,OptionA,OptionB,OptionC,OptionD,CorrectAnswer,Explanation
+Operating Systems,What is the main purpose of an operating system?,Manage hardware,Run applications,Provide UI,All of the above,3,An operating system manages hardware resources and provides an interface for applications and users.
+Database,Which SQL command is used to retrieve data?,INSERT,SELECT,UPDATE,DELETE,1,SELECT is used to retrieve data from a database.
+Digital Logic,How many inputs does a 4:1 multiplexer have?,2,4,8,16,1,A 4:1 multiplexer has 4 data inputs and 2 select lines.
