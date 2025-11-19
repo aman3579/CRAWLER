@@ -1,0 +1,762 @@
+{
+  "em": {
+    "pyqs": [
+      {
+        "title": "ISRO 2020 Engineering Mathematics Question Paper | ISRO Engineering Mathematics PYQ | BYJU'S GATE",
+        "url": "https://www.youtube.com/watch?v=YJ9xEyhdgvQ",
+        "channel": "BYJU'S Exam Prep GATE & ESE: EE,EC,IN,CS",
+        "thumbnail": "https://i.ytimg.com/vi/YJ9xEyhdgvQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPjhCQgdXQfn5yVbH9Ghz89pAVkQ",
+        "duration": "1:29:33"
+      },
+      {
+        "title": "Engineering Mathematics One Shot | All Branches | Maha Revision | Target GATE 2025",
+        "url": "https://www.youtube.com/watch?v=R_QS-WyCg5M",
+        "channel": "GATE Wallah",
+        "thumbnail": "https://i.ytimg.com/vi/R_QS-WyCg5M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGmxVlcLI_6kiQvb58NsnvafoNFA",
+        "duration": "6:05:15"
+      },
+      {
+        "title": "GATE Mechanical previous year solved Paper| Calculus-Mathematics| GATE-2008| #achievegate",
+        "url": "https://www.youtube.com/watch?v=wcC3kFmoW4Q",
+        "channel": "Paper Decoder",
+        "thumbnail": "https://i.ytimg.com/vi/wcC3kFmoW4Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfq0wvTFSMAtZazdxQTyuBhBUdPw",
+        "duration": "23:19"
+      },
+      {
+        "title": "Trick to Solve GATE Question #trick #gateexam #mathematics",
+        "url": "https://www.youtube.com/watch?v=nHbNql6JKOU",
+        "channel": "Shrenik Jain",
+        "thumbnail": "https://i.ytimg.com/vi/nHbNql6JKOU/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIGUoZTAP&rs=AOn4CLBEm89t5OdlvOrSD5RkZ2F0JZ3XNg",
+        "duration": "0:58"
+      },
+      {
+        "title": "GATE 2026 CSIT | Calculus PYQs Solved | Engineering Mathematics by Rahul Sir",
+        "url": "https://www.youtube.com/watch?v=JnTUxMU3Pe0",
+        "channel": "Unacademy GATE CSIT & DA",
+        "thumbnail": "https://i.ytimg.com/vi/JnTUxMU3Pe0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqZsvfRL1O0HP7eaXgpatu51482Q",
+        "duration": "52:19"
+      }
+    ],
+    "practice": [
+      {
+        "title": "GATE 2025 Exam | Engineering Mathematics Questions Detailed Solutions | All Branches",
+        "url": "https://www.youtube.com/watch?v=UYiBq94cXJA",
+        "channel": "GATE Wallah",
+        "thumbnail": "https://i.ytimg.com/vi/UYiBq94cXJA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDS96X77tB1iWfvR0PPDzeeyjkBPQ",
+        "duration": "3:43:40"
+      },
+      {
+        "title": "Marathon on Linear Algebra GATE PYQs with TRICKS| Engineering Mathematics| Shrenik Jain",
+        "url": "https://www.youtube.com/watch?v=s2tR_1KKfgw",
+        "channel": "Shrenik Jain - Study Simplified",
+        "thumbnail": "https://i.ytimg.com/vi/s2tR_1KKfgw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCyBsGdCL-TeTm1k2ProNuPOHJ6Pw",
+        "duration": "4:01:36"
+      },
+      {
+        "title": "GATE Through Questions (GTQ) | GATE 2024 | All Streams | Engineering Mathematics | MADE EASY",
+        "url": "https://www.youtube.com/watch?v=Rrpr6ig1zes",
+        "channel": "MADE EASY",
+        "thumbnail": "https://i.ytimg.com/vi/Rrpr6ig1zes/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALhzi8iHC363opbg39_QVxbBgiVw",
+        "duration": "2:47:23"
+      },
+      {
+        "title": "Eigen Values & Eigen Vectors Through GATE PYQs | Engineering Maths | GATE Linear Algebra Series",
+        "url": "https://www.youtube.com/watch?v=UdNk2ZDmPEA",
+        "channel": "OHM INSTITUTE Hyderabad",
+        "thumbnail": "https://i.ytimg.com/vi/UdNk2ZDmPEA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAX0GS-ip1VCXaNqnMarI3F4TVc6g",
+        "duration": "59:34"
+      },
+      {
+        "title": "Engineering Mathematics One Shot | All Branches | Maha Revision | Target GATE 2025",
+        "url": "https://www.youtube.com/watch?v=R_QS-WyCg5M",
+        "channel": "GATE Wallah",
+        "thumbnail": "https://i.ytimg.com/vi/R_QS-WyCg5M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDGmxVlcLI_6kiQvb58NsnvafoNFA",
+        "duration": "6:05:15"
+      }
+    ]
+  },
+  "dl": {
+    "pyqs": [
+      {
+        "title": "Master PYQs - Digital Logic with Chandan Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=h-SDoV0_pwQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/h-SDoV0_pwQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqaVOqv2fqiAzEvcR7c_JUpBeZsg",
+        "duration": "3:16:20"
+      },
+      {
+        "title": "Master PYQs - Digital Logic with Chandan Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=iTQMiiEYPGc",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/iTQMiiEYPGc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDFHE8pSm4KM5URc5TEwvf-s6obEw",
+        "duration": "54:52"
+      },
+      {
+        "title": "GATE 2025 Digital Logic PYQ Solutions | Detailed Concepts & Smart Tricks",
+        "url": "https://www.youtube.com/watch?v=P8xyhscbzZU",
+        "channel": "Unacademy GATE CSIT & DA",
+        "thumbnail": "https://i.ytimg.com/vi/P8xyhscbzZU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBebXf2kD3bb_t1dPPeVnojUsDWaQ",
+        "duration": "2:17:41"
+      },
+      {
+        "title": "IIT Kanpur Previous Year Questions | GATE CSE 2015 PYQ's | Digital Logic | GeeksforGeeks GATE",
+        "url": "https://www.youtube.com/watch?v=_kJy_-9KgOo",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/_kJy_-9KgOo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCfyMqP_GDuZnravkP86Z3Q9Upbw",
+        "duration": "26:04"
+      },
+      {
+        "title": "Digital Logic Last 30 Years GATE PYQs | Part 01 | Abhishek Singh sir",
+        "url": "https://www.youtube.com/watch?v=0uCpBkMKa-I",
+        "channel": "Unacademy GATE CSIT & DA",
+        "thumbnail": "https://i.ytimg.com/vi/0uCpBkMKa-I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWtoertOfgkmnWAzR5NTz-qUiZDQ",
+        "duration": "1:11:31"
+      }
+    ],
+    "practice": [
+      {
+        "title": "Master PYQs - Digital Logic with Chandan Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=h-SDoV0_pwQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/h-SDoV0_pwQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAqaVOqv2fqiAzEvcR7c_JUpBeZsg",
+        "duration": "3:16:20"
+      },
+      {
+        "title": "30 TRICKS To Solve Digital Logic PYQs (Unacademy Discount & SRPs Code : HELLOSONU01)",
+        "url": "https://www.youtube.com/watch?v=iQoN949sNtw",
+        "channel": "GATE NoteBook",
+        "thumbnail": "https://i.ytimg.com/vi/iQoN949sNtw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAaRg6EzCyBTM4XTcPuWnDnB4dZTw",
+        "duration": "1:14:31"
+      },
+      {
+        "title": "GATE 2025 Digital Logic PYQ Solutions | Detailed Concepts & Smart Tricks",
+        "url": "https://www.youtube.com/watch?v=P8xyhscbzZU",
+        "channel": "Unacademy GATE CSIT & DA",
+        "thumbnail": "https://i.ytimg.com/vi/P8xyhscbzZU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBebXf2kD3bb_t1dPPeVnojUsDWaQ",
+        "duration": "2:17:41"
+      },
+      {
+        "title": "GATE Solved Problems (2014) | Logic Gates | Digital Electronics",
+        "url": "https://www.youtube.com/watch?v=N4hU1QrVNrE",
+        "channel": "Neso Academy",
+        "thumbnail": "https://i.ytimg.com/vi/N4hU1QrVNrE/hqdefault.jpg?sqp=-oaymwE2COADEI4CSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB1AaAAsgDigIMCAAQARhLIGUoWDAP&rs=AOn4CLA8uT3XcI90TkRalAcgKHBOT2lUGA",
+        "duration": "6:20"
+      },
+      {
+        "title": "GATE 2025 | DIGITAL ELECTRONICS 01 | \u092f\u0947 PYQ's \u091c\u0930\u0942\u0930 \u0915\u0930\u0915\u0947 \u091c\u093e\u0928\u093e | EE/ECE/IN | GATE Exam",
+        "url": "https://www.youtube.com/watch?v=9vxgh3cUKeM",
+        "channel": "Kreatryx GATE - EE, ECE & IN by Unacademy",
+        "thumbnail": "https://i.ytimg.com/vi/9vxgh3cUKeM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIHv-aX8sQgUyYRMtkA7FG5HZkrA",
+        "duration": "3:42:44"
+      }
+    ]
+  },
+  "coa": {
+    "pyqs": [
+      {
+        "title": "GATE PYQ's - COA Part - 1 | CS & IT | Bhanu Priya",
+        "url": "https://www.youtube.com/watch?v=H5YIjs_7XWk",
+        "channel": "Unacademy Flux is Now Unacademy Jobs",
+        "thumbnail": "https://i.ytimg.com/vi/H5YIjs_7XWk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA4e-1uasl5GN0TbnqZ3JdD9GWsKw",
+        "duration": "56:59"
+      },
+      {
+        "title": "Target GATE 2025 | Computer Organization & Architecture | CS & IT | Revision through PYQ",
+        "url": "https://www.youtube.com/watch?v=ga7K--v7i6k",
+        "channel": "GATE Wallah (English)",
+        "thumbnail": "https://i.ytimg.com/vi/ga7K--v7i6k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOVV9_SkK8mH7QGlLIEpU_4Oe5Ug",
+        "duration": "2:51:52"
+      },
+      {
+        "title": "Master PYQs - COA with Vijay Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=6MBVu0Ecdd8",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/6MBVu0Ecdd8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5S8tBvkI1ziQc4z8i3AwGhNgTyg",
+        "duration": "6:35:02"
+      },
+      {
+        "title": "60 MSQ Questions on COA | GATE CSE/IT 2021 Exam | Vishvadeep Sir",
+        "url": "https://www.youtube.com/watch?v=XA72ripxWf4",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/XA72ripxWf4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_5kZ-rTSizgGZrHCjUiGOWYw3TA",
+        "duration": "2:32:53"
+      },
+      {
+        "title": "Previous Year Questions Pipelining | COA | GeeksforGeeks GATE | Harshit Nigam",
+        "url": "https://www.youtube.com/watch?v=i9nHxd-NCdg",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/i9nHxd-NCdg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCw6oG-JC_C0mWGZug0h8nE1GfcJA",
+        "duration": "57:56"
+      }
+    ],
+    "practice": [
+      {
+        "title": "Target GATE 2025 | Computer Organization & Architecture | CS & IT | Revision through PYQ",
+        "url": "https://www.youtube.com/watch?v=ga7K--v7i6k",
+        "channel": "GATE Wallah (English)",
+        "thumbnail": "https://i.ytimg.com/vi/ga7K--v7i6k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAOVV9_SkK8mH7QGlLIEpU_4Oe5Ug",
+        "duration": "2:51:52"
+      },
+      {
+        "title": "BARC 2024 | Computer Organization and Architecture | BARC Question Practice Series",
+        "url": "https://www.youtube.com/watch?v=6P5ghab16n8",
+        "channel": "GATE Wallah - EE, EC, CS & IN",
+        "thumbnail": "https://i.ytimg.com/vi/6P5ghab16n8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBpNQQmhhHOyLdaikANAI2brAKQXw",
+        "duration": "1:55:38"
+      },
+      {
+        "title": "Master PYQs - COA with Vijay Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=6MBVu0Ecdd8",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/6MBVu0Ecdd8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD5S8tBvkI1ziQc4z8i3AwGhNgTyg",
+        "duration": "6:35:02"
+      },
+      {
+        "title": "GATE CSE 2026 Best FREE Resources | Lectures, Books, PYQs, Notes, Tests & More | AIR 13",
+        "url": "https://www.youtube.com/watch?v=QnTzQKDQ4SI",
+        "channel": "Anjali Chauhan",
+        "thumbnail": "https://i.ytimg.com/vi/QnTzQKDQ4SI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDVm5kArBgfTZEBeJ51uEAuUpv0hw",
+        "duration": "6:36"
+      },
+      {
+        "title": "60 MSQ Questions on COA | GATE CSE/IT 2021 Exam | Vishvadeep Sir",
+        "url": "https://www.youtube.com/watch?v=XA72ripxWf4",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/XA72ripxWf4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_5kZ-rTSizgGZrHCjUiGOWYw3TA",
+        "duration": "2:32:53"
+      }
+    ]
+  },
+  "pds": {
+    "pyqs": [
+      {
+        "title": "The Correct Way to Solve GATE PYQs | Do\u2019s and Don\u2019ts to Get a Top Rank \u2705",
+        "url": "https://www.youtube.com/watch?v=MpQIWcoELAE",
+        "channel": "Anjali Chauhan",
+        "thumbnail": "https://i.ytimg.com/vi/MpQIWcoELAE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAB3rCVIEmwp852dGO3uozSZ5DGkA",
+        "duration": "10:15"
+      },
+      {
+        "title": "Data Structures | PYQ | CS & IT",
+        "url": "https://www.youtube.com/watch?v=QH8w4aq3zRQ",
+        "channel": "GATE Wallah - EE, EC, CS & IN",
+        "thumbnail": "https://i.ytimg.com/vi/QH8w4aq3zRQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCp4EfH8gWOQlh-nu4Rfo6Zc7lgKQ",
+        "duration": "3:45:10"
+      },
+      {
+        "title": "Master PYQs - Algorithms with Khaleel Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=AuJCwTN2tBQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/AuJCwTN2tBQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByiT7rfYL8t5nc5dfZHGnnN8d0nA",
+        "duration": "4:09:35"
+      },
+      {
+        "title": "Target GATE 2025 | Data Structure | CS & IT | Revision through PYQ",
+        "url": "https://www.youtube.com/watch?v=BIDGL6Vfoj0",
+        "channel": "GATE Wallah (English)",
+        "thumbnail": "https://i.ytimg.com/vi/BIDGL6Vfoj0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCqlbhKqVxP8MyHjrX4ap7AEhIoMA",
+        "duration": "2:16:16"
+      },
+      {
+        "title": "GATE 2025 CSE | Previous Year Questions: Programming & Data Structures [Part 3] | GfG",
+        "url": "https://www.youtube.com/watch?v=FGhfI71ewcA",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/FGhfI71ewcA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBlj2W6kM1mFY5eFjccZCgK6AtInw",
+        "duration": "1:04:08"
+      }
+    ],
+    "practice": [
+      {
+        "title": "GATE DA 25: Practice and PYQs: Programming, Data Structures and Algorithms Part 1",
+        "url": "https://www.youtube.com/watch?v=53GYlZ6x5YQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/53GYlZ6x5YQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOgMyfPxuu0lBz5RmasBPiqPwXpA",
+        "duration": "1:16:35"
+      },
+      {
+        "title": "Get 55+ Marks Easily in GATE CS 2026 using this strategy",
+        "url": "https://www.youtube.com/watch?v=hc4_PWFFJnk",
+        "channel": "GeeksforGeeks",
+        "thumbnail": "https://i.ytimg.com/vi/hc4_PWFFJnk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvQFv1oceXO0AkOUOtgb0QukBA8g",
+        "duration": "7:03"
+      },
+      {
+        "title": "GATE Exam | C Programming Part - 1 | Last 30 Years PYQ | CS & IT",
+        "url": "https://www.youtube.com/watch?v=9BzQBl2JZSg",
+        "channel": "Unacademy GATE CSIT & DA",
+        "thumbnail": "https://i.ytimg.com/vi/9BzQBl2JZSg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIQbY8aB_7PSkwLWiTE6BWWS0VcQ",
+        "duration": "59:34"
+      },
+      {
+        "title": "Master PYQs - Algorithms with Khaleel Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=AuJCwTN2tBQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/AuJCwTN2tBQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByiT7rfYL8t5nc5dfZHGnnN8d0nA",
+        "duration": "4:09:35"
+      },
+      {
+        "title": "C- Programming Practice Questions | GATE-24 | Vishvadeep Gothi",
+        "url": "https://www.youtube.com/watch?v=BxozeqUukhw",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/BxozeqUukhw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMNQsKsUAoqRfPcpLCHdFqNIz4Lw",
+        "duration": "1:08:35"
+      }
+    ]
+  },
+  "algo": {
+    "pyqs": [
+      {
+        "title": "Master PYQs - Algorithms with Khaleel Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=AuJCwTN2tBQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/AuJCwTN2tBQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByiT7rfYL8t5nc5dfZHGnnN8d0nA",
+        "duration": "4:09:35"
+      },
+      {
+        "title": "Algorithms Previous Year Questions (PYQs) | GATE CSE Questions for GATE 2023 Exam Preparation",
+        "url": "https://www.youtube.com/watch?v=puWr1inkYVw",
+        "channel": "BYJU'S Exam Prep GATE & ESE: EE,EC,IN,CS",
+        "thumbnail": "https://i.ytimg.com/vi/puWr1inkYVw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLASiE9OUNepuaYP6rHEm_ENslsErA",
+        "duration": "1:14:58"
+      },
+      {
+        "title": "I cracked IIT using these PYQ Resources | GATE CSE | #shorts",
+        "url": "https://www.youtube.com/watch?v=BvlnuLsW-04",
+        "channel": "Manish Mazumder",
+        "thumbnail": "https://i.ytimg.com/vi/BvlnuLsW-04/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARgPIGUoVTAP&rs=AOn4CLDQIgE8rAZakNfNEdAFrucIiHA1hQ",
+        "duration": "0:43"
+      },
+      {
+        "title": "Target GATE 2025 | Algorithms | CS & IT | Revision through PYQ",
+        "url": "https://www.youtube.com/watch?v=2kD0FxX_vD8",
+        "channel": "GATE Wallah (English)",
+        "thumbnail": "https://i.ytimg.com/vi/2kD0FxX_vD8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC67_4z9J7A5jVMcxvP6EJfWerB0A",
+        "duration": "3:11:16"
+      },
+      {
+        "title": "GATE 2025 Computer Science Engineering (CSE) | Algorithms PYQ [P1] | GeeksforGeeks",
+        "url": "https://www.youtube.com/watch?v=1tPlNCjZ7oU",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/1tPlNCjZ7oU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfwigr-7rJ0uBgOgMFI-OAf9787w",
+        "duration": "1:09:53"
+      }
+    ],
+    "practice": [
+      {
+        "title": "Master PYQs - Algorithms with Khaleel Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=AuJCwTN2tBQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/AuJCwTN2tBQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLByiT7rfYL8t5nc5dfZHGnnN8d0nA",
+        "duration": "4:09:35"
+      },
+      {
+        "title": "GATE CSE 2026 | Practice Questions Lecture 2 | Algorithm & Complexity",
+        "url": "https://www.youtube.com/watch?v=XjMEunji4gQ",
+        "channel": "Study With Saksham",
+        "thumbnail": "https://i.ytimg.com/vi/XjMEunji4gQ/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLCnVku3dRXC482ZleupM6MjuIsIUQ",
+        "duration": "50:50"
+      },
+      {
+        "title": "GATE CSE 2026 | Practice Questions Lecture 3 | Algorithm & Complexity",
+        "url": "https://www.youtube.com/watch?v=CVz57_eHoLU",
+        "channel": "Study With Saksham",
+        "thumbnail": "https://i.ytimg.com/vi/CVz57_eHoLU/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIFwoWzAP&rs=AOn4CLA6ovkPbkw4ZJ4TIz5TU29iDUly-g",
+        "duration": "47:01"
+      },
+      {
+        "title": "GATE DA 25: Practice and PYQs: Programming, Data Structures and Algorithms Part 1",
+        "url": "https://www.youtube.com/watch?v=53GYlZ6x5YQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/53GYlZ6x5YQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOgMyfPxuu0lBz5RmasBPiqPwXpA",
+        "duration": "1:16:35"
+      },
+      {
+        "title": "Greedy Algorithms - Practice Questions with Concepts | CS & IT | GATE 2021 | Sweta Kumari",
+        "url": "https://www.youtube.com/watch?v=JszLex78C7Y",
+        "channel": "Unacademy Flux is Now Unacademy Jobs",
+        "thumbnail": "https://i.ytimg.com/vi/JszLex78C7Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBl_5G0yLTSqh8HAmMOpueN8eEfSA",
+        "duration": "1:05:45"
+      }
+    ]
+  },
+  "toc": {
+    "pyqs": [
+      {
+        "title": "Theory of Computation | PYQ | CS & IT",
+        "url": "https://www.youtube.com/watch?v=pVQjVG0dBKY",
+        "channel": "GATE Wallah - EE, EC, CS & IN",
+        "thumbnail": "https://i.ytimg.com/vi/pVQjVG0dBKY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBormdgRrz65EwOmOQIPfCOp3Hymw",
+        "duration": "8:22:24"
+      },
+      {
+        "title": "DFA - ALL GATE PYQs | Finite Automata | Theory of Computation | With NOTES",
+        "url": "https://www.youtube.com/watch?v=nagYqfzY2HE",
+        "channel": "GO Classes for GATE CS",
+        "thumbnail": "https://i.ytimg.com/vi/nagYqfzY2HE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPWWNFIHqGE7ljsg_ycyzl5gG0ug",
+        "duration": "1:44:42"
+      },
+      {
+        "title": "Master PYQs - TOC with Deva Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=3C_lXtJtthI",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/3C_lXtJtthI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKWwraufjy2P5MHxPF4BbZWIMhHA",
+        "duration": "10:11:33"
+      },
+      {
+        "title": "Theory Of Computation GATE Previous Year Questions from 1989 to 1998 Finite Automata",
+        "url": "https://www.youtube.com/watch?v=LWfFoMD88TY",
+        "channel": "NTA UGC NET Computer Science CSE",
+        "thumbnail": "https://i.ytimg.com/vi/LWfFoMD88TY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhOAJx4uRcYRU7FoyS0v9lQEWzYA",
+        "duration": "46:28"
+      },
+      {
+        "title": "Get 55+ Marks Easily in GATE CS 2026 using this strategy",
+        "url": "https://www.youtube.com/watch?v=hc4_PWFFJnk",
+        "channel": "GeeksforGeeks",
+        "thumbnail": "https://i.ytimg.com/vi/hc4_PWFFJnk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvQFv1oceXO0AkOUOtgb0QukBA8g",
+        "duration": "7:03"
+      }
+    ],
+    "practice": [
+      {
+        "title": "Theory of Computation | PYQ | CS & IT",
+        "url": "https://www.youtube.com/watch?v=pVQjVG0dBKY",
+        "channel": "GATE Wallah - EE, EC, CS & IN",
+        "thumbnail": "https://i.ytimg.com/vi/pVQjVG0dBKY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBormdgRrz65EwOmOQIPfCOp3Hymw",
+        "duration": "8:22:24"
+      },
+      {
+        "title": "DFA - ALL GATE PYQs | Finite Automata | Theory of Computation | With NOTES",
+        "url": "https://www.youtube.com/watch?v=nagYqfzY2HE",
+        "channel": "GO Classes for GATE CS",
+        "thumbnail": "https://i.ytimg.com/vi/nagYqfzY2HE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPWWNFIHqGE7ljsg_ycyzl5gG0ug",
+        "duration": "1:44:42"
+      },
+      {
+        "title": "Master PYQs - TOC with Deva Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=3C_lXtJtthI",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/3C_lXtJtthI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKWwraufjy2P5MHxPF4BbZWIMhHA",
+        "duration": "10:11:33"
+      },
+      {
+        "title": "Regular Expressions - ALL GATE PYQs - Part 1 | Finite Automata | Theory of Computation | With NOTES",
+        "url": "https://www.youtube.com/watch?v=FF8qFPnt-a0",
+        "channel": "GO Classes for GATE CS",
+        "thumbnail": "https://i.ytimg.com/vi/FF8qFPnt-a0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDCuZ9VqK9YxzNaw1M7SFoW4sqI1A",
+        "duration": "1:31:09"
+      },
+      {
+        "title": "Complete TOC Theory of Computation in one shot | Semester Exam | Hindi",
+        "url": "https://www.youtube.com/watch?v=9kuynHcM3UA",
+        "channel": "KnowledgeGATE by Sanchit Sir",
+        "thumbnail": "https://i.ytimg.com/vi/9kuynHcM3UA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDUznVKlVIypv0NT8_ZY8LNcEoIw",
+        "duration": "8:24:28"
+      }
+    ]
+  },
+  "cd": {
+    "pyqs": [
+      {
+        "title": "GATE Previous Year Questions PYQ - Lexical Analysis | Compiler Design",
+        "url": "https://www.youtube.com/watch?v=Lzwgbl8T3YI",
+        "channel": "GeeksforGeeks",
+        "thumbnail": "https://i.ytimg.com/vi/Lzwgbl8T3YI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPGldRJOTkDMvVNPDh5CHyKO9UCA",
+        "duration": "42:38"
+      },
+      {
+        "title": "Revise Compiler  Design Through Practice Questions  | GATE/IIITH/BARC/HAL | Sweta Kumari",
+        "url": "https://www.youtube.com/watch?v=QkE4WA_44Ds",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/QkE4WA_44Ds/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_UYQcpG2cJGKnnKiNeH5U6lY_vg",
+        "duration": "1:00:38"
+      },
+      {
+        "title": "Master PYQs - Compiler Design with Deva Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=AMQDP2KK0fk",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/AMQDP2KK0fk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB37I0AYnFtpraD4KZ3_K0Ygt5cA",
+        "duration": "7:45:35"
+      },
+      {
+        "title": "GATE  CS 2024 Compiler Design Questions Set-1|| Anshul Sir || IIT Kanpur || MindMatrix Learning",
+        "url": "https://www.youtube.com/watch?v=yXdVbMxf4y0",
+        "channel": "MindMatrix Learning - GATE CS & GATE DA",
+        "thumbnail": "https://i.ytimg.com/vi/yXdVbMxf4y0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCCik3RtfEAH0GGb6ElmvU5lILbaw",
+        "duration": "27:13"
+      },
+      {
+        "title": "Most Important Previous Year Questions | GATE |Compiler Design|Part- 1 |CS |By Prasad Sir| MADE EASY",
+        "url": "https://www.youtube.com/watch?v=Dl5FzdElqg8",
+        "channel": "MADE EASY",
+        "thumbnail": "https://i.ytimg.com/vi/Dl5FzdElqg8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXU1LlPWfN2yu2hMN8T8J4q4i13Q",
+        "duration": "7:40"
+      }
+    ],
+    "practice": [
+      {
+        "title": "Revise Compiler  Design Through Practice Questions  | GATE/IIITH/BARC/HAL | Sweta Kumari",
+        "url": "https://www.youtube.com/watch?v=QkE4WA_44Ds",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/QkE4WA_44Ds/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD_UYQcpG2cJGKnnKiNeH5U6lY_vg",
+        "duration": "1:00:38"
+      },
+      {
+        "title": "Master PYQs - Compiler Design with Deva Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=AMQDP2KK0fk",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/AMQDP2KK0fk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDB37I0AYnFtpraD4KZ3_K0Ygt5cA",
+        "duration": "7:45:35"
+      },
+      {
+        "title": "GATE Exam crack kar lia to kya karoge?",
+        "url": "https://www.youtube.com/watch?v=Vp7uHNo1ezg",
+        "channel": "GATE CSE LECTURES BY AMIT KHURANA",
+        "thumbnail": "https://i.ytimg.com/vi/Vp7uHNo1ezg/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhyIE0oPjAP&rs=AOn4CLBeVVyshn8UVdiezC9slb_1WAN8ZA",
+        "duration": "0:20"
+      },
+      {
+        "title": "GATE Previous Year Questions PYQ - Lexical Analysis | Compiler Design",
+        "url": "https://www.youtube.com/watch?v=Lzwgbl8T3YI",
+        "channel": "GeeksforGeeks",
+        "thumbnail": "https://i.ytimg.com/vi/Lzwgbl8T3YI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAPGldRJOTkDMvVNPDh5CHyKO9UCA",
+        "duration": "42:38"
+      },
+      {
+        "title": "50 Most Important GATE PYQ's On Compiler Design | GATE Exam",
+        "url": "https://www.youtube.com/watch?v=Pr4hxfuG3iU",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/Pr4hxfuG3iU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC72trjrU8MNIzKPALBJezbRL2fcQ",
+        "duration": "2:28:48"
+      }
+    ]
+  },
+  "os": {
+    "pyqs": [
+      {
+        "title": "Operating System Previous Year Question Paper | GATE CSE 2023 | Operating System By Himanshu Sir",
+        "url": "https://www.youtube.com/watch?v=y681eH_5rv0",
+        "channel": "AE JE Testbook Pass",
+        "thumbnail": "https://i.ytimg.com/vi/y681eH_5rv0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8XJzoU_K4iiPIWvnRV5fShDeVPw",
+        "duration": "1:26:23"
+      },
+      {
+        "title": "Master PYQs - Operating Systems with Khaleel Sir \ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=CFiLSrPynCQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/CFiLSrPynCQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_lRFY_eYjN6oFu1t3ArffcSRVDQ",
+        "duration": "4:29:33"
+      },
+      {
+        "title": "GATE 2022 | OS | BINARY SEMAPHORE | GATE TEST SERIES | SOLUTIONS ADDA | EXPLAINED BY POOJA",
+        "url": "https://www.youtube.com/watch?v=SGINd42XAvA",
+        "channel": "Solutions Adda - One Stop Solution for GATE & PSUs",
+        "thumbnail": "https://i.ytimg.com/vi/SGINd42XAvA/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGAFwAcABBvABAfgB_gmAAtAFigIMCAAQARhlIGUoZTAP&rs=AOn4CLB3cb0Dp5imdzCQLSZK63trYL3zmQ",
+        "duration": "3:01"
+      },
+      {
+        "title": "GATE 2025 | Last 3 Years PYQs | Operating System",
+        "url": "https://www.youtube.com/watch?v=68uFPqiAoVc",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/68uFPqiAoVc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3Jyv8mEsrbCJSa9B17RozFJNc2A",
+        "duration": "1:06:43"
+      },
+      {
+        "title": "Operating System Previous Year Question | GATE 2023 Computer Science Engineering (CSE) | BYJU'S GATE",
+        "url": "https://www.youtube.com/watch?v=DELsq1G9hU8",
+        "channel": "BYJU'S Exam Prep GATE & ESE: EE,EC,IN,CS",
+        "thumbnail": "https://i.ytimg.com/vi/DELsq1G9hU8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAACPchuN2mHhfmKY3Zs8loKIDEgw",
+        "duration": "1:58:51"
+      }
+    ],
+    "practice": [
+      {
+        "title": "Practice Problems on Operating Systems (Part 1) | Marathon Session | GATE 2021 CSE Exam",
+        "url": "https://www.youtube.com/watch?v=QSPei2-O-8Y",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/QSPei2-O-8Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCMcPksVidMOnKb675oxulCNzXrJA",
+        "duration": "1:26:00"
+      },
+      {
+        "title": "All Important Practice Questions | OS | Marathon | GATE 2023 | Vishvadeep Gothi",
+        "url": "https://www.youtube.com/watch?v=Mfh788Ufy8M",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/Mfh788Ufy8M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBjcgrZXZ6E4Seq7n5-obn32BEjgw",
+        "duration": "1:43:09"
+      },
+      {
+        "title": "Master PYQs - Operating Systems with Khaleel Sir \ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=CFiLSrPynCQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/CFiLSrPynCQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB_lRFY_eYjN6oFu1t3ArffcSRVDQ",
+        "duration": "4:29:33"
+      },
+      {
+        "title": "50 Practice Questions on Operating Systems For GATE CS IT | Sweta Kumari",
+        "url": "https://www.youtube.com/watch?v=CgEus1UnAug",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/CgEus1UnAug/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBXqLoBwLEqvhuOoA7T4pupaSeqKQ",
+        "duration": "1:34:55"
+      },
+      {
+        "title": "GATE 2024 (Set-1) Operating System PYQs | Detailed Solutions",
+        "url": "https://www.youtube.com/watch?v=Dld7RakDsto",
+        "channel": "Turing Prep GATE CS & DA",
+        "thumbnail": "https://i.ytimg.com/vi/Dld7RakDsto/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADqntbZ-4aZCaxq0rbX8lQi79w7Q",
+        "duration": "33:45"
+      }
+    ]
+  },
+  "db": {
+    "pyqs": [
+      {
+        "title": "Master PYQs - DBMS with Vijay Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=4ctlJYCfhcI",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/4ctlJYCfhcI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz4ncAzwCgOQteAqwTzgNC3A562w",
+        "duration": "6:02:58"
+      },
+      {
+        "title": "Top 20 PYQs of DBMS | MOST Repeated Previous Years Question-Database Management System of UGC NET",
+        "url": "https://www.youtube.com/watch?v=yO2a_COnZmA",
+        "channel": "Unify Study",
+        "thumbnail": "https://i.ytimg.com/vi/yO2a_COnZmA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTTWMoa5CeEf715euxpDUnNEbAcA",
+        "duration": "40:29"
+      },
+      {
+        "title": "Marathon:Database Management System-UGC NET PYQs CS|DBMS Top Frequently Asked Questions|CS Revision",
+        "url": "https://www.youtube.com/watch?v=ySMZNDsrwwY",
+        "channel": "Unify Study",
+        "thumbnail": "https://i.ytimg.com/vi/ySMZNDsrwwY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTXK7iETx_iX8DyQPuiQpT2SxtnA",
+        "duration": "2:55:40"
+      },
+      {
+        "title": "GATE Through Questions (GTQ) | GATE 2024 | CS | Database Management System | MADE EASY",
+        "url": "https://www.youtube.com/watch?v=mEnRtDaZKEM",
+        "channel": "MADE EASY",
+        "thumbnail": "https://i.ytimg.com/vi/mEnRtDaZKEM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHHYxxHVSZue36LGkc70JQiCvq0g",
+        "duration": "3:10:45"
+      },
+      {
+        "title": "GATE Exam | DBMS | Last 30 years GATE PYQ | ER Model To RDBMS Conversion",
+        "url": "https://www.youtube.com/watch?v=VtqTi2BQU3E",
+        "channel": "Unacademy GATE CSIT & DA",
+        "thumbnail": "https://i.ytimg.com/vi/VtqTi2BQU3E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPfftE6Qm6pxTSLYVQpPAGagsMOA",
+        "duration": "1:05:30"
+      }
+    ],
+    "practice": [
+      {
+        "title": "GATE Through Questions (GTQ) | GATE 2024 | CS | Database Management System | MADE EASY",
+        "url": "https://www.youtube.com/watch?v=mEnRtDaZKEM",
+        "channel": "MADE EASY",
+        "thumbnail": "https://i.ytimg.com/vi/mEnRtDaZKEM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAHHYxxHVSZue36LGkc70JQiCvq0g",
+        "duration": "3:10:45"
+      },
+      {
+        "title": "GATE DA 25: Practice and PYQs: Database Management and Warehousing Part 1",
+        "url": "https://www.youtube.com/watch?v=cwH8hP6RZTQ",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/cwH8hP6RZTQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAEkaZUwPaJtYuESrb1wK92LwB1bQ",
+        "duration": "52:49"
+      },
+      {
+        "title": "Master PYQs - DBMS with Vijay Sir\ud83d\ude80 | Must-Watch Series \ud83c\udfaf | GATE 2025 \ud83d\udcda",
+        "url": "https://www.youtube.com/watch?v=4ctlJYCfhcI",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/4ctlJYCfhcI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCz4ncAzwCgOQteAqwTzgNC3A562w",
+        "duration": "6:02:58"
+      },
+      {
+        "title": "Marathon:Database Management System-UGC NET PYQs CS|DBMS Top Frequently Asked Questions|CS Revision",
+        "url": "https://www.youtube.com/watch?v=ySMZNDsrwwY",
+        "channel": "Unify Study",
+        "thumbnail": "https://i.ytimg.com/vi/ySMZNDsrwwY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTXK7iETx_iX8DyQPuiQpT2SxtnA",
+        "duration": "2:55:40"
+      },
+      {
+        "title": "GATE Exam | DBMS | Last 30 years GATE PYQ | ER Model To RDBMS Conversion",
+        "url": "https://www.youtube.com/watch?v=VtqTi2BQU3E",
+        "channel": "Unacademy GATE CSIT & DA",
+        "thumbnail": "https://i.ytimg.com/vi/VtqTi2BQU3E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPfftE6Qm6pxTSLYVQpPAGagsMOA",
+        "duration": "1:05:30"
+      }
+    ]
+  },
+  "cn": {
+    "pyqs": [
+      {
+        "title": "Previous Year GATE 1-Marks Questions on Concepts of Layering in Computer Networks",
+        "url": "https://www.youtube.com/watch?v=Fo6V-floObY",
+        "channel": "Erudite CS",
+        "thumbnail": "https://i.ytimg.com/vi/Fo6V-floObY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvmiU1uXi2x8hw729qHym3MTqbug",
+        "duration": "10:04"
+      },
+      {
+        "title": "Solved GATE CS/IT 2024 Paper | DETAILED VIDEO SOLUTIONS | Computer Networks |",
+        "url": "https://www.youtube.com/watch?v=zyz1eGfMzNc",
+        "channel": "Arihant Online Academy",
+        "thumbnail": "https://i.ytimg.com/vi/zyz1eGfMzNc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKQPunjFCMQJJ3RqgyGJtHVl9ayQ",
+        "duration": "4:38"
+      },
+      {
+        "title": "Computer Networks GATE 2024 & 2025 | PYQ Solutions Set 1 & Set 2 | Ankit Doyla CN",
+        "url": "https://www.youtube.com/watch?v=4GEWWH4uiSw",
+        "channel": "Unacademy GATE CSIT & DA",
+        "thumbnail": "https://i.ytimg.com/vi/4GEWWH4uiSw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_xqdd1FG307BhP7ofqA31qeXouQ",
+        "duration": "2:07:41"
+      },
+      {
+        "title": "ISRO PYQs | Computer Network Single Shot Session by Ankit Doyla | ISRO Preparation #ISROPYQs",
+        "url": "https://www.youtube.com/watch?v=o822sH3cU7Y",
+        "channel": "Unacademy GATE CSIT & DA",
+        "thumbnail": "https://i.ytimg.com/vi/o822sH3cU7Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC8fCw8sBo9_62joem4Xm3sy0vGsQ",
+        "duration": "3:15:15"
+      },
+      {
+        "title": "Computer Networks Gate 2014 PYQs with Shanu Gandhi | GeeksforGeeks GATE",
+        "url": "https://www.youtube.com/watch?v=Ce8Oh5xOAMk",
+        "channel": "GeeksforGeeks GATE",
+        "thumbnail": "https://i.ytimg.com/vi/Ce8Oh5xOAMk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBDoRs_uAiGZdAnAdFlZx64H8jEtQ",
+        "duration": "58:54"
+      }
+    ],
+    "practice": [
+      {
+        "title": "Get 55+ Marks Easily in GATE CS 2026 using this strategy",
+        "url": "https://www.youtube.com/watch?v=hc4_PWFFJnk",
+        "channel": "GeeksforGeeks",
+        "thumbnail": "https://i.ytimg.com/vi/hc4_PWFFJnk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBvQFv1oceXO0AkOUOtgb0QukBA8g",
+        "duration": "7:03"
+      },
+      {
+        "title": "I cracked IIT using these PYQ Resources | GATE CSE | #shorts",
+        "url": "https://www.youtube.com/watch?v=BvlnuLsW-04",
+        "channel": "Manish Mazumder",
+        "thumbnail": "https://i.ytimg.com/vi/BvlnuLsW-04/hq720_2.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARgPIGUoVTAP&rs=AOn4CLDQIgE8rAZakNfNEdAFrucIiHA1hQ",
+        "duration": "0:43"
+      },
+      {
+        "title": "Computer Network 50+ Practice Questions | Marathon Session | GATE 2021 CSE Exam",
+        "url": "https://www.youtube.com/watch?v=x0o6FK62kdE",
+        "channel": "Unacademy Computer Science",
+        "thumbnail": "https://i.ytimg.com/vi/x0o6FK62kdE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdrDJUKD8AfequOVNyvdphwDQCgA",
+        "duration": "2:27:59"
+      },
+      {
+        "title": "Important Facts About GATE Computer Science #PW #GATE",
+        "url": "https://www.youtube.com/watch?v=wuen4SgZ6Ng",
+        "channel": "GATE Wallah - EE, EC, CS & IN",
+        "thumbnail": "https://i.ytimg.com/vi/wuen4SgZ6Ng/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBzgWAAoAKigIMCAAQARhyIEwoNTAP&rs=AOn4CLBPz8XVet7ro9zK6rTaDhnTeOYFFw",
+        "duration": "0:55"
+      },
+      {
+        "title": "GATE CS Is Not Computer Science | It's Common Sense \ud83d\ude44 #PW #GATE",
+        "url": "https://www.youtube.com/watch?v=0ob_0vDBcgw",
+        "channel": "GATE Wallah - EE, EC, CS & IN",
+        "thumbnail": "https://i.ytimg.com/vi/0ob_0vDBcgw/hq720.jpg?sqp=-oaymwE2COgCEMoBSFXyq4qpAygIARUAAIhCGABwAcABBvABAfgBtgiAAoAPigIMCAAQARhlIFsoSTAP&rs=AOn4CLCt2CQG7THILjfvCsjuTMA6KhnfAg",
+        "duration": "0:26"
+      }
+    ]
+  }
+}
